@@ -1,5 +1,5 @@
 import java.util.ArrayList;                 //changes made
-import java.util.Scanner;
+import java.util.Scanner;                   //to show merged changes
 
 public class Main {
 
